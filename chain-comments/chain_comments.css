@@ -1,0 +1,20 @@
+.text{
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.reply-comment{
+    color: rgb(84, 84, 233);
+    cursor: pointer;
+    margin: 5px;
+}
+
+.comment-content{
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background-color: rgb(222, 222, 222);
+    margin-top: 10px;
+    padding: 10px;
+}
